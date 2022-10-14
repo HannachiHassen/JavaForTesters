@@ -12,17 +12,19 @@ PrintInteger class [PrintInteger.java](https://github.com/HannachiHassen/JavaFor
 
 3) Write a Java program to print the command line arguments?
 
-Sample class [Sample.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/PrintInteger.java)
+Sample class [Sample.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/Sample.java)
 
 4) Write a Java program to print the input from scanner?
 
-PrintScannerInput class [PrintScannerInput.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/PrintInteger.java)
+PrintScannerInput class [PrintScannerInput.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/PrintScannerInput.java)
 
 5) Write a Java program to convert from Fahrenheit to Celsius?
  
-ConvertToCelsius class [ConvertToCelsius.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/PrintInteger.java)
+ConvertToCelsius class [ConvertToCelsius.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/ConvertToCelsius.java)
 
 6) Write a Java program to swap two numbers?
+
+SwapNumbers class [SwapNumbers.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/SwapNumbers.java)
 
 7) Write a Java program to swap two numbers without using third variable?
 
