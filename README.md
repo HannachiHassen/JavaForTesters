@@ -1,6 +1,6 @@
 # Java Coding Interview Questions for Testers
 
-Each Question has a java class as an answer. All java class are included in com.interviesQuestions package.
+Each Question has a java class as an answer. All java class are included in com.interviesQuestions package [ src/com.interviesQuestions/ ].
 
 1) Write a simple Java program?
 
