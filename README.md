@@ -28,9 +28,15 @@ SwapNumbers class [SwapNumbers.java](https://github.com/HannachiHassen/JavaForTe
 
 7) Write a Java program to swap two numbers without using third variable?
 
+SwapNumberWithoutVariable class [SwapNumberWithoutVariable.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/SwapNumberWithoutVariable.java)
+
 8) Write a Java program to add two numbers?
 
+AddNumbers class [AddNumbers.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/AddNumbers.java)
+
 9) Write a Java program to find the largest number?
+
+FindLargestNumberInArray class [FindLargestNumberInArray.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/FindLargestNumberInArray.java)
 
 10) Write a Java program to demonstrate if..else statement ?
 
