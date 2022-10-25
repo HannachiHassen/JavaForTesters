@@ -40,6 +40,8 @@ FindLargestNumberInArray class [FindLargestNumberInArray.java](https://github.co
 
 10) Write a Java program to demonstrate if..else statement ?
 
+FindNumberIsPrime class [FindNumberIsPrime.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/FindNumberIsPrime.java)
+
 11) Write a Java program to demonstrate nested if … else if .. statement?
 
 12) Write a Java program to demonstrate nested if …else statement?
