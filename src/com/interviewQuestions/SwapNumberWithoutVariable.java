@@ -9,7 +9,7 @@ package com.interviewQuestions;
  * @version 1.0
  * @since 1.0
  */
-public class SwapNumberWithoutVariable {
+public final class SwapNumberWithoutVariable {
 
 	/**
 	 * @author Hassen

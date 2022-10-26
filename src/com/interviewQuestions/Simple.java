@@ -5,7 +5,7 @@ package com.interviewQuestions;
  * @version 1.0
  * @since 1.0
  */
-public class Simple {
+public final class Simple {
 
 	/**
 	 * @author Hassen

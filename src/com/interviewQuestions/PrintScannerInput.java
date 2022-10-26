@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @version 1.0
  * @since 1.0
  */
-public class PrintScannerInput {
+public final class PrintScannerInput {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String name = sc.nextLine();

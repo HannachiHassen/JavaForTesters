@@ -10,7 +10,7 @@ package com.interviewQuestions;
  * @version 1.0
  * @since 1.0
  */
-public class Sample {
+public final class Sample {
 	public static void main(String[] args) {
 		if (args.length > 0) {
 			System.out.println("The command line" + " arguments are:");
