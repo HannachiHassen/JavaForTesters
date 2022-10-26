@@ -44,13 +44,23 @@ FindNumberIsPrime class [FindNumberIsPrime.java](https://github.com/HannachiHass
 
 11) Write a Java program to demonstrate nested if … else if .. statement?
 
+IfElseDemo class [IfElseDemo.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/IfElseDemo.java)
+
 12) Write a Java program to demonstrate nested if …else statement?
+
+Ladder class [Ladder.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/Ladder.java)
 
 13) Write a Java program to find odd and even numbers ?
 
+FindOddEvenNumbers class [FindOddEvenNumbers.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/FindOddEvenNumbers.java)
+
 14) Write a Java program to compare two strings?
 
+CompareTwoStrings class [CompareTwoStrings.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/CompareTwoStrings.java)
+
 15) Write a Java program to demonstrate for loop ?
+
+ReverseSentenceWordByWord 
 
 16) Write a Java program to print stars using for loop, where the number of stars printed should be equal to the row number?
 
