@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @version 1.0
  * @since 1.0
  */
-public class AddNumbers {
+public final class AddNumbers {
 
 	/**
 	 * @author Hassen

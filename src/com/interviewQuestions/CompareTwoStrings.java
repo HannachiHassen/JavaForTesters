@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @version 1.0
  * @since 1.0
  */
-public class CompareTwoStrings {
+public final class CompareTwoStrings {
 
 	/**
 	 * @author Hassen Oct 26, 2022

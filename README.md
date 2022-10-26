@@ -60,7 +60,7 @@ CompareTwoStrings class [CompareTwoStrings.java](https://github.com/HannachiHass
 
 15) Write a Java program to demonstrate for loop ?
 
-ReverseSentenceWordByWord 
+ReverseSentenceWordByWord class [ReverseSentenceWordByWord.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/ReverseSentenceWordByWord.java)
 
 16) Write a Java program to print stars using for loop, where the number of stars printed should be equal to the row number?
 
