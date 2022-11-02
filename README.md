@@ -80,8 +80,25 @@ ReverseSentenceWordByWord class [ReverseSentenceWordByWord.java](https://github.
 
 24) Write a Java program for printing the prime numbers?
 
-25) Write a Java program to check whether a given number is Armstrong ?
+25) Write a Java program to check whether a given number is Armstrong?
 
+26) Write a Java Program to Count Number of Vowels in a String?
 
+vowel class [vowel.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/vowel.java)
 
+26) Write a Java Program to Reverse String?
+
+reverse class [reverse.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/reverse.java)
+
+27) Write a Java Program to Reverse a String Using toCharArray()?
+
+ReveresString class [ReveresString.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/ReveresString.java)
+
+28) Write a Java Program to Reverse a string without affecting special characters?
+
+reverse class [reverse.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/reverse.java)
+
+29) Write a Java Program to String Word?
+
+StringWordCount [StringWordCount.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/StringWordCount.java)
 
