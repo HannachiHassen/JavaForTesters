@@ -17,8 +17,7 @@ public final class ReverseSentenceWordByWord2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		String str = "test12pop90java989pyt", 
-		nstr = "";
+		String str = "test12pop90java989pyt", nstr = "";
 		char ch;
 
 		System.out.print("Original word: ");
@@ -30,5 +29,4 @@ public final class ReverseSentenceWordByWord2 {
 		}
 		System.out.println("Reversed word: " + nstr);
 	}
-
 }

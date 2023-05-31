@@ -21,11 +21,10 @@ public final class ReverseSentenceWordByWord {
 		String reversedSentence = reverseSentence(sentence);
 		System.out.println(reversedSentence);
 	}
-	
+
 	/**
 	 * 
-	 * @author Hassen
-	 * Oct 26, 2022
+	 * @author Hassen Oct 26, 2022
 	 * @param sentence
 	 * @return reverse
 	 */
