@@ -1,8 +1,8 @@
 package com.array;
 
 public final class MaximumSum {
-	private MaximumSum() {
-		
+	
+	private MaximumSum() {		
 	}
 
 	static int arr[] = { 12, 34, 10, 6, 40 };
@@ -35,7 +35,6 @@ public final class MaximumSum {
 	}
 
 	public static void main(String[] args) {
-
 		System.out.println("Max Pair Sum is " + findLargestSumPair());
 	}
 }
