@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.interviewQuestions;
+package com.numbers;
 
 import java.util.Scanner;
 

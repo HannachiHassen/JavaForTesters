@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.interviewQuestions;
+package com.numbers;
 
 import java.util.Scanner;
 
@@ -19,14 +19,20 @@ public final class SwapNumbers {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		  int x, y, z; 
+		  int x, y, temp; 
+		  System.out.println("Enter x and y");
 		  Scanner sc = new Scanner(System.in);
+		  
 		  x = sc.nextInt(); 
 		  y = sc.nextInt(); 
+		  
 		  System.out.println("Before swapping\n x = " + x + "\n y = " + y);
-		  z = x; 
+		  
+		  temp = x; 
 		  x = y; 
-		  y = z; 
+		  y = temp; 
 		  System.out.println("After swapping\n x = " + x + "\n y = " + y); 
+		  
+		  sc.close();
 	}
 }
