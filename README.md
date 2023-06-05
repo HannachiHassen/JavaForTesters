@@ -1,6 +1,6 @@
 # Java Coding Interview Questions for Testers
 
-Each Question has a java class as an answer. All java class are included in com.interviesQuestions package [ src/com.interviesQuestions/ ].
+Each Question has a java class as an answer. Java class are included in different packages: **src/com.numbers**, **src/com.interviesQuestions**.
 
 ### 1. Write a simple Java program?
 
@@ -62,25 +62,25 @@ CompareTwoStrings class [CompareTwoStrings.java](https://github.com/HannachiHass
 
 ReverseSentenceWordByWord class [ReverseSentenceWordByWord.java](https://github.com/HannachiHassen/JavaForTesters/blob/master/src/com/interviewQuestions/ReverseSentenceWordByWord.java)
 
-16) Write a Java program to print stars using for loop, where the number of stars printed should be equal to the row number?
+### 16. Write a Java program to print stars using for loop, where the number of stars printed should be equal to the row number?
 
-17) Write a Java program to demonstrate while loop?
+### 17. Write a Java program to demonstrate while loop?
 
-18) Write a Java program to print the entered number in reverse?
+### 18. Write a Java program to print the entered number in reverse?
 
-19) Write a Java program to demonstrate the usage of break statement inside while loop?
+### 19. Write a Java program to demonstrate the usage of break statement inside while loop?
 
-20) Write a Java program to demonstrate the usage of break and continue statements inside while loop?
+### 20. Write a Java program to demonstrate the usage of break and continue statements inside while loop?
 
-21) Write a Java program to print the alphabets using for loop?
+### 21. Write a Java program to print the alphabets using for loop?
 
-22) Write a Java program to demonstrate for each loop?
+### 22. Write a Java program to demonstrate for each loop?
 
-23) Write a Java program for printing the Multiplication table?
+### 23. Write a Java program for printing the Multiplication table?
 
-24) Write a Java program for printing the prime numbers?
+### 24. Write a Java program for printing the prime numbers?
 
-25) Write a Java program to check whether a given number is Armstrong?
+### 25. Write a Java program to check whether a given number is Armstrong?
 
 ### 26. Write a Java Program to Count Number of Vowels in a String?
 
