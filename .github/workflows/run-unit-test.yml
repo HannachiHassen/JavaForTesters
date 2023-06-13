@@ -3,7 +3,7 @@ name: run unit tests of feature brarnches
 on:
   push:
     branches:
-      'feature/*'
+      'master/*'
       
 jobs:
   run-unit-test:
